@@ -1,0 +1,12 @@
+.background    { background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/BTrHt7uCiu335hjs/videoblocks-old-school-2d-retro-arcade-video-game-moving-clouds-on-a-blue-sky-vintage-computer-background-footage-4k_hbw7amo3vw_thumbnail-small01.jpg");
+
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: rgb( 44, 227, 230 ); }
+.wall          { background: rgb( 82, 49, 25 );   }
+.floater       {background: rgb( 236, 233, 230 );  }
+
+.game {
+  position: relative;
+}
